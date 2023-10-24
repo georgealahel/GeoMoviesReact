@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GeoMoviesReact/static/css/main.5ac3ee27.css",
+    "main.js": "/GeoMoviesReact/static/js/main.66455d4b.js",
+    "index.html": "/GeoMoviesReact/index.html",
+    "main.5ac3ee27.css.map": "/GeoMoviesReact/static/css/main.5ac3ee27.css.map",
+    "main.66455d4b.js.map": "/GeoMoviesReact/static/js/main.66455d4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ac3ee27.css",
+    "static/js/main.66455d4b.js"
+  ]
+}
